@@ -1,5 +1,5 @@
-# LearnBase-Bash :book:
-### Heared about Linux? Want to learn bash scripting? or Searching for a good Handbook for terminal Commands?
+# LearnBase-Linux Terminal Commands(LTC) :book:
+### Heared about Linux? or Searching for a good Handbook for terminal Commands?
 > 🏗️**This Repository still under construction. But feel free to explore and contribute** 🤿
 
 **HERE's ALL.**<br>
