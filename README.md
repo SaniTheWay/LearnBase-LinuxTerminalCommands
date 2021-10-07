@@ -157,4 +157,10 @@ __20. ```sort``` command__
  -  ```sort -u <file_name>``` : to remove duplicated.
  -  Example : ```ls | sort``` : used with list command.
 
+__21. ```locate``` command__
+- used to locate a file in a Linux system, just like the search command in Windows.
+- useful when you don't know where a file is saved or the actual name of the file.
+- ```locate -i hello```: -i argument with the command helps to ignore the case, will also fetch files with Hello or HELLO or heLLo etc.
+- ```locate -i *hello*world*```: * helps you to find the files if you remember only some words of the filename, separate them with *, for ex here linux will find any filename with the words "hello" and "world" in them.
+
  
