@@ -171,6 +171,19 @@ __22. ```locate``` command__
 - ```locate -i hello```: -i argument with the command helps to ignore the case, will also fetch files with Hello or HELLO or heLLo etc.
 - ```locate -i *hello*world*```: * helps you to find the files if you remember only some words of the filename, separate them with *, for ex here linux will find any filename with the words "hello" and "world" in them.
 
+__23. ```clear``` command__
+ - used to clear the terminal screen
+ - useful when you want to declutter your terminal window
+ - Syntax: ```clear```
+ - Keyboard shortcut: `Ctrl + L` 
+
+__24. ```echo``` command__
+ - used to input text and display it on standard output
+ - used to print files of a specific kind : ```echo *.svg``` or simply `echo *` to list out the files in the current directory
+ - Syntax: ```echo <option(s)> <string(s)>```
+ - > 💡 NOTE: The ‘-e‘ option in Linux acts as an interpretation of escaped characters that are backslashed.
+ - Example: ```echo -e "\vMr. \vStark \vI \vdon't \vfeel \vso \vgood."```: \v creates vertical tab spaces.
+
 
 
 ---
