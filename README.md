@@ -157,4 +157,8 @@ __20. ```sort``` command__
  -  ```sort -u <file_name>``` : to remove duplicated.
  -  Example : ```ls | sort``` : used with list command.
 
- 
+__21. ```chmod``` command__
+ - chmod is used to make a file executable and to change the permissions granted to it in Linux
+ - ```chmod +x <file_name>``` : make a file executable.
+ - ```chmod <permission> <file_name>``` : a set of flags associated with each file determines who can access that file, and how they can access it.
+ -  Example : ```chmod 755 main.py | chmod +x main.py``` : used to make the file `main.py` executable.
