@@ -2,6 +2,8 @@
 ### Heared about Linux? or Searching for a good Handbook for terminal Commands?
 > 🏗️**This Repository still under construction. But feel free to explore and contribute** 🤿
 
+*Don't forget to 🌟**Star** the repository, to show your Appreciation and Love.* 👏
+
 **HERE's ALL.**<br>
 In a programmers' life, Linux is the thing that one should know how to use it efficiently.
 This is a self learn tutorial for those who new to Linux terminal and want to learn how to use it effectively.
@@ -169,3 +171,7 @@ __22. ```locate``` command__
 - ```locate -i hello```: -i argument with the command helps to ignore the case, will also fetch files with Hello or HELLO or heLLo etc.
 - ```locate -i *hello*world*```: * helps you to find the files if you remember only some words of the filename, separate them with *, for ex here linux will find any filename with the words "hello" and "world" in them.
 
+
+
+---
+*Don't forget to 🌟**Star** the repository, to show your Appreciation and Love.* 👏
