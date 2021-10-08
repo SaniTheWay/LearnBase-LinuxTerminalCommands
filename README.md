@@ -156,11 +156,16 @@ __20. ```sort``` command__
  -  ```sort --ignore-case <file_name>``` : to sort case insensitive, use ```-n``` to sort numerically.
  -  ```sort -u <file_name>``` : to remove duplicated.
  -  Example : ```ls | sort``` : used with list command.
+ 
+__21. ```chmod``` command__
+ - chmod is used to make a file executable and to change the permissions granted to it in Linux
+ - ```chmod +x <file_name>``` : make a file executable.
+ - ```chmod <permission> <file_name>``` : a set of flags associated with each file determines who can access that file, and how they can access it.
+ -  Example : ```chmod 755 main.py | chmod +x main.py``` : used to make the file `main.py` executable.
 
-__21. ```locate``` command__
+__22. ```locate``` command__
 - used to locate a file in a Linux system, just like the search command in Windows.
 - useful when you don't know where a file is saved or the actual name of the file.
 - ```locate -i hello```: -i argument with the command helps to ignore the case, will also fetch files with Hello or HELLO or heLLo etc.
 - ```locate -i *hello*world*```: * helps you to find the files if you remember only some words of the filename, separate them with *, for ex here linux will find any filename with the words "hello" and "world" in them.
 
- 
